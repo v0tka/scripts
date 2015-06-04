@@ -13,7 +13,7 @@ int main(int argc, char const *argv[]) {
             system(command);
         }
     } else {
-        printf("Usage: megadl link1 link2 link3 link4 linkn\n");
+        printf("Usage: ./megas link1 link2 link3 link4 linkn\n");
     }
 
     return 0;
